@@ -10,8 +10,3 @@ This is my **first published blog post** using:
 - Markdown
 - Jekyll
 - GitHub Pages
-
-### Code example
-
-```js
-console.log("Hello from my blog!");
