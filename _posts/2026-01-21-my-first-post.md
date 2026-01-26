@@ -1,9 +1,7 @@
 ---
-title: "My First GitHub Pages Post"
+title: "Blog Specifics"
 date: 2026-01-21
 ---
-
-## Why I’m writing this
 
 This is my **first published blog post** using:
 
