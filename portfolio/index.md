@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
+permalink: /portfolio/help-m-m-1-queuing-system/
 nav_exclude: true
 robots: noindex, nofollow
 ---
