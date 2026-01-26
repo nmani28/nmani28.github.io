@@ -1,5 +1,5 @@
 ---
-title: doc continuum
+title: Doc Continuum
 layout: home
 ---
 
