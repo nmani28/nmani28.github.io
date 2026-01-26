@@ -7,3 +7,11 @@ robots: noindex, nofollow
 This document was written for a public help website as part of my role.
 
 It is included here in PDF form for portfolio demonstration purposes only.
+
+---
+<embed 
+  src="/_assets/_docs/m-m-1 queuing system.pdf"
+  type="application/pdf"
+  width="100%"
+  height="800px"
+/>
