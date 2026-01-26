@@ -1,5 +1,3 @@
-
-
 <embed 
   src="/_assets/_docs/m-m-1 queuing system.pdf"
   type="application/pdf"
