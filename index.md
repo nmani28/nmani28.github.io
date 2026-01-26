@@ -1,5 +1,5 @@
 ---
-title: Hello GitHub Pages
+title: doc continuum
 layout: home
 ---
 
