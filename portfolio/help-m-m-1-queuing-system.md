@@ -8,7 +8,7 @@ robots: noindex, nofollow
 ← [Back to Portfolio](/portfolio/)
 
 <embed
-  src="/_assets/_docs/m-m-1-queuing-system.pdf"
+  src="/assets/docs/m-m-1-queuing-system.pdf"
   type="application/pdf"
   width="100%"
   height="800px"
